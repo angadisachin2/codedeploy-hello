@@ -1,3 +1,3 @@
 #!/bin/bash
 yum update -y
-yum install -y httpd24
+yum install -y httpd
